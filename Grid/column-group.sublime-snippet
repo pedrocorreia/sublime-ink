@@ -1,9 +1,10 @@
 <snippet>
     <content><![CDATA[
-<div class="ink-row">${1}</div>
+<div class="column-group">${1}</div>
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>row</tabTrigger>
+    <tabTrigger>i-colgroup</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
-    <!-- <scope>source.python</scope> -->
+    <!-- <scope>text.html</scope> -->
+    <description>Insert a Ink grid column-group element</description>
 </snippet>
