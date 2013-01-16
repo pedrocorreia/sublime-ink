@@ -7,15 +7,15 @@ This package contains Sublime Text 2 snippets to make the creation of layouts us
 ---
 
 ### The Ink Grid
-Ink provides a HTML/CSS layout grid framework that allows you to build flexible pages that can be used with several screen sizes. [^1]
+Ink provides a HTML/CSS layout grid framework that allows you to build flexible pages that can be used with several screen sizes. [^note-id]
 
 #### Grid elements
 * Grid container element - `igrid + tab`
 * Grid column element - `icol + tab`
 * Grid column group element - `icolgrp + tab`
-* 1 grid column - `i1col + tab`
 
 ##### Even space divisions
+* 1 grid column - `i1col + tab`
 * 2 even grid columns - `i2cols + tab`
 * 3 even grid columns - `i3cols + tab`
 * 4 even grid columns - `i4cols + tab`
@@ -33,7 +33,7 @@ Ink provides a HTML/CSS layout grid framework that allows you to build flexible 
 * 2 (75% / 25%) grid columns - `i7525 + tab`
 * 2 (80% / 20%) grid columns - `i8020 + tab`
 
-[^1]: Most grid snippets provide tab stops to complete the snippet.
+[^note-id]: Most grid snippets provide tab stops to complete the snippet.
 
 ---
 
