@@ -3,8 +3,8 @@
 <div class="large-${1} medium-${2} small-${3}">${4}</div>
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>i-col</tabTrigger>
+    <tabTrigger>icol</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
     <!-- <scope>source.python</scope> -->
-    <description>Insert a Ink grid column element</description>
+    <description>Ink: Insert a grid column element</description>
 </snippet>
