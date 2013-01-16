@@ -2,7 +2,6 @@
     <content><![CDATA[
 <div class="column-group">
     <div class="large-100 medium-100 small-100">${1}</div>
-    <div class="large-100 medium-100 small-100">${1}</div>
 </div>
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
