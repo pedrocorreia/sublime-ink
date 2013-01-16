@@ -1,12 +1,13 @@
 # Sublime-ink
 
-### Sublimet Text 2 snippets for SAPO Ink UI framework.
+### Sublimet Text 2 snippets for [SAPO Ink v2](http://ink.sapo.pt) UI framework.
 ---
 This package contains Sublime Text 2 snippets to make the creation of layouts using SAPOs Ink UI framework simple, easy and fast.
 
 ---
 
-### Grid
+### The Ink Grid
+Ink provides a HTML/CSS layout grid framework that allows you to build flexible pages that can be used with several screen sizes. [^1]
 
 #### Grid elements
 * Grid container element - `igrid + tab`
@@ -32,6 +33,9 @@ This package contains Sublime Text 2 snippets to make the creation of layouts us
 * 2 (75% / 25%) grid columns - `i7525 + tab`
 * 2 (80% / 20%) grid columns - `i8020 + tab`
 
+[^1]: Most grid snippets provide tab stops to complete the snippet.
+
 ---
 
 #### Usage
+You can use the Sublime Text 2 command palette and type `ink` to get a complete list of available snippets, or start memorizing and using the tab triggers listed in the command palette and here in front of each snippets description.
