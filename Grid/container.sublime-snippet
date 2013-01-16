@@ -3,7 +3,7 @@
 <div class="ink-grid">${1}</div>
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>i-grid</tabTrigger>
+    <tabTrigger>igrid</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
     <!-- <scope>source.python</scope> -->
     <description>Ink: Insert a grid container element.</description>
