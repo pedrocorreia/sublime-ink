@@ -1,14 +1,13 @@
 <snippet>
     <content><![CDATA[
 <div class="column-group">
-    <div class="large-33 medium-${1} small-${2}">${3}</div>
-    <div class="large-33 medium-${1} small-${2}">${3}</div>
-    <div class="large-33 medium-${1} small-${2}">${3}</div>
+    <div class="large-30 medium-${1} small-${2}">${3}</div>
+    <div class="large-70 medium-${1} small-${2}">${3}</div>
 </div>
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>i3cols</tabTrigger>
+    <tabTrigger>i3070</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
     <!-- <scope>text.html</scope> -->
-    <description>Ink: Insert 3 even grid columns</description>
+    <description>Ink: Insert 30% / 70% columns</description>
 </snippet>

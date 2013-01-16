@@ -12,5 +12,5 @@
     <tabTrigger>i5cols</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
     <!-- <scope>text.html</scope> -->
-    <description>Ink: Insert 5 grid columns</description>
+    <description>Ink: Insert 5 even grid columns</description>
 </snippet>
