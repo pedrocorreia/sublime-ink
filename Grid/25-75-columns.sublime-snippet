@@ -1,8 +1,8 @@
 <snippet>
     <content><![CDATA[
 <div class="column-group">
-    <div class="large-25 medium-${1} small-${2}">${3}</div>
-    <div class="large-75 medium-${1} small-${2}">${3}</div>
+    <div class="large-25 medium-${1} small-${2}">${5}</div>
+    <div class="large-75 medium-${3} small-${4}">${5}</div>
 </div>
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
