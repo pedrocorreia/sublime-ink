@@ -25,6 +25,7 @@ Ink provides a HTML/CSS layout grid framework that allows you to build flexible 
 * 30% / 70% grid columns - `i3070 + tab`
 * 33% / 66% grid columns - `i3366 + tab`
 * 40% / 60% grid columns - `i4060 + tab`
+* 50% / 50% grid columns - `i5050 + tab`
 * 60% / 40% grid columns - `i6040 + tab`
 * 66% / 33% grid columns - `i6633 + tab`
 * 70% / 30% grid columns - `i7030 + tab`
