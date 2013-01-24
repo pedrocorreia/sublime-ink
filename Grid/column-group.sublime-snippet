@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<div class="column-group">${1}</div>
+<div class="column-group ${1}">${2}</div>
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>icolgrp</tabTrigger>
