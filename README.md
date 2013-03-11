@@ -32,6 +32,12 @@ Ink provides a HTML/CSS layout grid framework that allows you to build flexible 
 * 75% / 25% grid columns - `i7525 + tab`
 * 80% / 20% grid columns - `i8020 + tab`
 
+#### Navigation
+* Horizontal menu bar - `ihmenu + tab`
+* Vertical menu bar - `ihmenu + tab`
+* Pill buttons - `ipills + tab`
+* Tabs - `itabs + tab`
+
 1: Most grid snippets provide tab stops to complete the snippet like, how to behave with smaller screens.
 
 ---
