@@ -32,6 +32,9 @@ Ink provides a HTML/CSS layout grid framework that allows you to build flexible 
 * 75% / 25% grid columns - `i7525 + tab`
 * 80% / 20% grid columns - `i8020 + tab`
 
+## Navigation elements
+Ink provides common navigation elements in a easy to implement and customize way.
+
 #### Navigation
 * Horizontal menu bar - `ihmenu + tab`
 * Vertical menu bar - `ihmenu + tab`
