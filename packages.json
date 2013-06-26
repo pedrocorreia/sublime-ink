@@ -1,0 +1,20 @@
+{
+    "schema_version": "1.2",
+    "packages": [
+        {
+            "name": "Ink Helper",
+            "description": "Sublime Text 2 helper and completions for Sapo Ink v2",
+            "author": "pedrocorreia",
+            "homepage": "https://github.com/pedrocorreia/sublime-ink",
+            "last_modified": "2013-06-26 19:05:00",
+            "platforms": {
+                "*": [
+                    {
+                        "version": "1.0.0",
+                        "url": "https://nodeload.github.com/pedrocorreia/sublime-ink/zip/master"
+                    }
+                ]
+            }
+        }
+    ]
+}

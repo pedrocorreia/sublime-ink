@@ -4,6 +4,22 @@
 
 This package contains Sublime Text 2 snippets to make the creation of layouts using SAPOs Ink UI framework simple, easy and fast.
 
+## Instalation
+
+###Using the [Sublime Package Control](http://wbond.net/sublime_packages/package_control)
+
+- Open up your command pallete *ctrl+shift+p* and type in: `Package Control: add Repository`
+- paste the URL to this github repo in the next box (https://github.com/pedrocorreia/sublime-ink)
+- Re-Open your command pallete and type: `Package Control: Install Package` and search for `Ink Helper`
+- ????
+- Profit!
+
+###Manual installation
+- [Download](https://github.com/pedrocorreia/sublime-ink/archive/develop.zip) the full repo.
+- unpack it to your sublime text 2 `/Packages` folder
+- ???
+- Profit!
+
 ## The Ink Grid
 Ink provides a HTML/CSS layout grid framework that allows you to build flexible pages that can be used with several screen sizes. 1
 
