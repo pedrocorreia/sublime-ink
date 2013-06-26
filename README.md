@@ -4,13 +4,13 @@
 
 This package contains Sublime Text 2 snippets to make the creation of layouts using SAPOs Ink UI framework simple, easy and fast.
 
-## Instalation
+## Installation
 
 ###Using the [Sublime Package Control](http://wbond.net/sublime_packages/package_control)
 
-- Open up your command pallete *ctrl+shift+p* and type in: `Package Control: add Repository`
+- Open up your command palette *ctrl+shift+p* and type in: `Package Control: add Repository`
 - paste the URL to this github repo in the next box (https://github.com/pedrocorreia/sublime-ink)
-- Re-Open your command pallete and type: `Package Control: Install Package` and search for `Ink Helper`
+- Re-Open your command palette and type: `Package Control: Install Package` and search for `Ink Helper`
 - ????
 - Profit!
 
